@@ -1,0 +1,15 @@
+You are an expert evaluator of English–Slovak translations. Evaluate the following Slovak translation for overall quality with 5 points:
+1. Are the periods, commas, exclamation marks, and quotation marks in the same places? (Preserving the form also determines the correctness of the content: if we are asking a question, there must be a question mark at the end of the sentence, and vice versa).
+2. Check the adequacy of the translation, look for errors in the translation at the level of:
+a) grammar: morphosyntax, clause syntax – including agreement, conjunctions, punctuation, and checking conjunctions to avoid shifts in meaning (e.g., however and therefore have completely different meanings), prepositions (especially with verbs: connect to the Internet, not connect to the Internet), word order (the subject in the source text is also the subject in the target text),
+b) lexicon (word meanings, including false friends (eventually ≠ eventuálne),
+c) style (use of terms in technical style: e.g., fraction = fraktúra in technical style and zlomenina in popular educational style).
+3. Checking standards according to manuals (Rules of Slovak Spelling, Concise Dictionary of the Slovak Language, Contemporary Slovak Standard Language. Language Advisory Service, etc.)
+4. Check the fluency and comprehensibility of the translation. Would a native speaker write it this way? Does the reader understand the text? Can they understand it after reading it once? Do they need to read the text again? Are the formulations logical and fluent? Is the language adapted to the target culture? (use of upper/lower quotation marks in ENG and SVK, use of quotation marks in the text as quotations, declension of female surnames)?
+5. Reflect the number of errors in the assessment. Errors that affect the comprehension of the text (e.g., incomprehensibility, shift in meaning) carry more weight than those related to grammar (e.g., incorrect declension, conjugation, preposition). The ratio of the number and severity of errors.
+Rate the translation on a scale from 1 to 10:
+1–3 = poor (major meaning errors, unnatural phrasing)
+4–6 = acceptable (some issues but understandable)
+7–8 = good (minor errors, mostly fluent)
+9–10 = excellent (accurate, natural, and fluent)
+Output ONLY the number of points, nothing else. 
